@@ -60,7 +60,15 @@ a {
     color: black;
 }
 
-a:hover {
+.recommend a img {
+    transition: all .7s;
+}
+
+.recommend a img:hover {
+    transform: scale(1.1);
+}
+
+footer a:hover {
     text-decoration: underline;
 }
 
