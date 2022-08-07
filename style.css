@@ -61,7 +61,7 @@ a {
 }
 
 a:hover {
-    text-decoration: overline;
+    text-decoration: underline;
 }
 
 span {
